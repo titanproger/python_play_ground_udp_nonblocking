@@ -39,7 +39,8 @@ Hint: the solution can be implemented in approximately 20 lines of code.
      in sandbox run `run_sender.sh`
 
      type any message + Enter
-      check this message appear in console 2 (where task is running)
+     
+     check this message appears in console 2 (where task is running)
 
 
 

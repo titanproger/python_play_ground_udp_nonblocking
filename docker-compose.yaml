@@ -1,0 +1,10 @@
+
+services:
+  sandbox:
+    build: .devcontainer/
+    image: titanproger/gcc_play_ground
+    volumes:
+      - ./:/workspaces/task3
+    working_dir: /workspaces/task3
+    network_mode: host
+
